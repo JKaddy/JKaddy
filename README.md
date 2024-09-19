@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JKaddy
+- 👋 Hi, I’m Joy Kaddy
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning @shecodes to perfect my skikls.
 - 💞️ I’m looking to collaborate on any frontend projects
